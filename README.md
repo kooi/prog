@@ -8,6 +8,6 @@ Overzicht van lesmaterialen voor programmeren.
 
 
 ## CSS
-https://flexboxfroggy.com/#nl
-https://cssgridgarden.com/#nl
+* https://flexboxfroggy.com/
+* https://cssgridgarden.com/
 
