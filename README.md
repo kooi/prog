@@ -1,13 +1,19 @@
 # Lesmateriaal Programmeren
 Overzicht van lesmaterialen voor programmeren.
 
-## Python
+## Docentenmateriaal
 
 
-## HTML
+## Leerlingmateriaal
+
+### Python
 
 
-## CSS
+### HTML
+
+
+### CSS
 * https://flexboxfroggy.com/
 * https://cssgridgarden.com/
+
 
