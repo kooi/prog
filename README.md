@@ -2,7 +2,7 @@
 Verzameling lesmaterialen voor programmeren en digitale 
 
 ## Docentenmateriaal
-* [I&I Forum(https://ieni-forum.infvo.nl/)
+* [I&I Forum](https://ieni-forum.infvo.nl/)
 
 ### Internet of Things
 * https://infvo.github.io/iot-1/html/index.html
